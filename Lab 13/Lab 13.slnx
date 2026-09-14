@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="D:/Нужное мне/оаип мое/Lab 13/Lab 13/Lab 13.vcxproj" Id="45ad762e-cd87-4bef-ade2-9838193350cc" />
+  <Project Path="D:/Нужное мне/оаип мое/Lab 13/Lab 13_0/Lab 13_0.vcxproj" Id="6dab4dd9-327e-414d-8f43-d169833dbc57" />
+  <Project Path="D:/Нужное мне/оаип мое/Lab 13/Lab 13_0_1/Lab 13_0_1.vcxproj" Id="01e1126e-b64d-491c-8728-d763f960eabf" />
+  <Project Path="D:/Нужное мне/оаип мое/Lab 13/Lab 13_1/Lab 13_1.vcxproj" Id="44105ca7-8b7a-4b1f-a0ea-3d3b6a24ad4d" />
+  <Project Path="D:/Нужное мне/оаип мое/Lab 13/Lab 13_2/Lab 13_2.vcxproj" Id="efa35d5b-b3f3-4767-b7ee-7376558c2f68" />
+  <Project Path="D:/Нужное мне/оаип мое/Lab 13/Lab 13_3/Lab 13_3.vcxproj" Id="4e34676a-a128-4ca6-9954-20533e60ea84" />
+</Solution>

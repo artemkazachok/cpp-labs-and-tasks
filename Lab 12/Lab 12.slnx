@@ -1,0 +1,19 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="D:/Нужное мне/оаип мое/Lab 12/Lab 12/Lab 12.vcxproj" Id="f91e5158-a67d-4a90-b8bb-89e932523fef" />
+  <Project Path="D:/Нужное мне/оаип мое/Lab 12/Lab 12_0/Lab 12_0.vcxproj" Id="e3895c74-1500-4e23-a82b-ef7c8044c8ff" />
+  <Project Path="D:/Нужное мне/оаип мое/Lab 12/Lab 12_0_1/Lab 12_0_1.vcxproj" Id="6819e3ad-7be6-4e13-91a5-a1c2741b2e14" />
+  <Project Path="Lab 12_0_2/Lab 12_0_2.vcxproj" Id="be34109c-7595-465c-8473-90a41752ed95" />
+  <Project Path="Lab 12_0_3/Lab 12_0_3.vcxproj" Id="a9be8c25-bfff-4d59-905f-a98f6ea1a542" />
+  <Project Path="Lab 12_0_4/Lab 12_0_4.vcxproj" Id="76930abc-0046-40dc-9055-6cd4f8eeb1dd" />
+  <Project Path="Lab 12_0_5/Lab 12_0_5.vcxproj" Id="37cb43e0-2ca8-4b29-b36c-370a9edba4f4" />
+  <Project Path="Lab 12_0_6/Lab 12_0_6.vcxproj" Id="c4ff8f66-0d56-4efe-8f4c-d28101804744" />
+  <Project Path="Lab 12_0_7/Lab 12_0_7.vcxproj" Id="2ad5a2e4-67cb-4ac9-85eb-53b234664c09" />
+  <Project Path="Lab 12_0_8/Lab 12_0_8.vcxproj" Id="c61b8202-9b41-4762-9417-f86531a05e58" />
+  <Project Path="Lab 12_2/Lab 12_2.vcxproj" Id="737c4691-0c31-4b14-b261-9dd9de74847c" />
+  <Project Path="Lab 12_3/Lab 12_3.vcxproj" Id="31e88b57-56ce-407a-adab-37823cf39191" />
+  <Project Path="Lab 12_4/Lab 12_4.vcxproj" Id="80a17afa-3575-4037-a694-a571763c39df" />
+</Solution>

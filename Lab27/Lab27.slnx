@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Lab27/Lab27.vcxproj" Id="ce2e2b7f-49dd-48bd-bbd8-16bd4166183d" />
+  <Project Path="pprim_1/pprim_1.vcxproj" Id="d6042bf4-3502-4d38-a1e3-2084cfb3ca11" />
+  <Project Path="prim_2/prim_2.vcxproj" Id="9373f737-228d-4085-b96a-5f28cee8019b" />
+  <Project Path="prim_3/prim_3.vcxproj" Id="75a4c098-adbd-45d1-a4ff-ddc2c533f464" />
+  <Project Path="prim_4/prim_4.vcxproj" Id="7b074732-c21e-4d0e-8376-1cc592ad527c" />
+  <Project Path="zad_1/zad_1.vcxproj" Id="dad5cb38-4810-4141-88b4-3a025622fe9f" />
+</Solution>

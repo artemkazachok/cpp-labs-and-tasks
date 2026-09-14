@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Lab28_1/Lab28_1.vcxproj" Id="38daebe8-d9aa-489e-ba4f-d1d8a58127ed" />
+  <Project Path="Lab28_2/Lab28_2.vcxproj" Id="287a4269-4ff9-4bd5-90a3-164de783343c" />
+  <Project Path="Lab28_3/Lab28_3.vcxproj" Id="d54f1f89-ab79-485f-87a7-6a4f5551ba91" />
+  <Project Path="Lab28_4/Lab28_4.vcxproj" Id="f44cf921-84aa-4a74-9a79-026d531db083" />
+</Solution>

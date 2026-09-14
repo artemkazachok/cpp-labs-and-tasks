@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Lab24/Lab24.vcxproj" />
+  <Project Path="zad_1/zad_1.vcxproj" Id="068dfbee-af6d-41cd-880b-77f0f0b3152f" />
+  <Project Path="zad_2/zad_2.vcxproj" />
+  <Project Path="zad_3/zad_3.vcxproj" />
+  <Project Path="zad_4/zad_4.vcxproj" />
+</Solution>
